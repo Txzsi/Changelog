@@ -1,8 +1,9 @@
-Limitless RP V2 Release!
+Happy holidays from the management team.
 
--CCTV script added.
--Poster job added!
+-Minor bug fixed and performance upgrades.
+-New LSPD uniforms. 
+-Chat commands have been cleaned up to intergrate with the framework. 
+-New loading screen music.
 
-Huge casino update coming soon!
+Updates will continue to roll out as we aproach the new year. 
 
-And much more!
