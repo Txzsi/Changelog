@@ -1,8 +1,7 @@
--Casino update! Featuring blackjack and slots.
--New Trucking job.
--New robbery script.
--Money system update, department now get their own wage.
--CAD system update (cad.limitlessfivem.com). 
--New Route 68 Motel interior. 
+-Ability to hide in trash cans. 
+-New car radio. 
+-Viewable patrol car dashcams. 
+-Multiple defibrillators that can resuscitate a player. 
+-Pepper spray has been added to all LEO loadouts!
 
-
+And much more, which you can view in the discord!
