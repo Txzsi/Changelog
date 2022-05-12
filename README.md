@@ -1,7 +1,5 @@
--Ability to hide in trash cans. 
--New car radio. 
--Viewable patrol car dashcams. 
--Multiple defibrillators that can resuscitate a player. 
--Pepper spray has been added to all LEO loadouts!
+Limitless Roleplay Verion 3 Update! 
+
+Releasing 05/13/2021! All changes will be posted in the discord. 
 
 And much more, which you can view in the discord!
