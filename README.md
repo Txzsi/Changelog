@@ -1,4 +1,3 @@
-Limitless Roleplay Version 3 Update! 
+Newly Released! 
 
-All changes listed in the discord. 
-
+A full change log can be viewed in the discord.
