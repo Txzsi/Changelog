@@ -1,3 +1,3 @@
-With christmas around the corner, we're action packed to get in the festive mood! Thanks for all of the continued support during Atlas' development, it truly means a lot. 
+Happy holidays, we hope you and your families are doing well during this festive season! 
 
-- The Atlas Team. 
+Thanks for all the continued support!
