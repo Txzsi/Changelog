@@ -1,3 +1,3 @@
-Happy holidays, we hope you and your families are doing well during this festive season! 
+Limitless Roleplay QBCore beta version. 
 
-Thanks for all the continued support!
+Please report any bug findings in the discord server - discord.gg/lrp. 
